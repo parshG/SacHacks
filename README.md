@@ -1,5 +1,10 @@
 # SacHacks
 
+This project was submitted to the SalHacks 2025 Competition.
+
+Our Devpost: https://devpost.com/software/signgpt-o4q0j9?ref_content=user-portfolio&ref_feature=in_progress
+
+Try it here: https://accessify-sand.vercel.app/
 
 
 
